@@ -38,14 +38,4 @@ public class EnglishToMorse {
             cont = scanner.next();
         }
     }
-
-
-
-
-
-
-
-
-
-
 }
